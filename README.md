@@ -1,1 +1,1 @@
-This repository is a messy work in progress- eventually it will contian all of the 3d files, and source code that makes this project work- except for some of the shell and configuration files that are a part of the custom linux base this entire project is built upon. 
+Here is a link to a video showcasing both AI systems. https://youtube.com/shorts/bZTUWr9GiwE?feature=share I will further organize this repo when I have more time. 
